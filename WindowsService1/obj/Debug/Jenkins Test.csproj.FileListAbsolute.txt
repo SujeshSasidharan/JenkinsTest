@@ -1,0 +1,6 @@
+c:\users\m2kb\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+c:\users\m2kb\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+c:\users\m2kb\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+c:\users\m2kb\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\Jenkins Test.csprojResolveAssemblyReference.cache
+c:\users\m2kb\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+c:\users\m2kb\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
